@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|c:\\users\\mikip\\onedrive\\desktop\\nowy folder (5)\\vueapp1\\vueapp1.server\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|solutionrelative:vueapp1.server\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|solutionrelative:vueapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14CC8F8-1330-4677-BE0A-46FAE2BB8DC6}|vueapp1.client\\vueapp1.client.esproj|C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\vueapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E14CC8F8-1330-4677-BE0A-46FAE2BB8DC6}|vueapp1.client\\vueapp1.client.esproj|solutionrelative:vueapp1.client\\vueapp1.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E87F48F1-C558-488A-B1AE-1FC7F31012AC}|VueApp1.Server\\VueApp1.Server.csproj|solutionrelative:vueapp1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14CC8F8-1330-4677-BE0A-46FAE2BB8DC6}|vueapp1.client\\vueapp1.client.esproj|C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\src\\views\\indexpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E14CC8F8-1330-4677-BE0A-46FAE2BB8DC6}|vueapp1.client\\vueapp1.client.esproj|solutionrelative:vueapp1.client\\src\\views\\indexpage.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "VueApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Program.cs",
+              "RelativeToolTip": "VueApp1.Server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:13:50.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "VueApp1.Server\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "VueApp1.Server\\Controllers\\IndexController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:11:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexPage.vue",
+              "DocumentMoniker": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\src\\views\\IndexPage.vue",
+              "RelativeDocumentMoniker": "vueapp1.client\\src\\views\\IndexPage.vue",
+              "ToolTip": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\src\\views\\IndexPage.vue",
+              "RelativeToolTip": "vueapp1.client\\src\\views\\IndexPage.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-03-24T11:09:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VueApp1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\VueApp1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VueApp1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T11:07:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vueapp1.client",
+              "DocumentMoniker": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\vueapp1.client.esproj",
+              "RelativeDocumentMoniker": "vueapp1.client\\vueapp1.client.esproj",
+              "ToolTip": "C:\\Users\\mikip\\OneDrive\\Desktop\\Nowy folder (5)\\VueApp1\\vueapp1.client\\vueapp1.client.esproj",
+              "RelativeToolTip": "vueapp1.client\\vueapp1.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T11:03:47.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
